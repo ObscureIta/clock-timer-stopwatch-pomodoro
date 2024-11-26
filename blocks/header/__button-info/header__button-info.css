@@ -1,0 +1,7 @@
+.header__button-info {
+  inline-size: 25px;
+  block-size: 25px;
+  border-radius: 50%;
+  border: 1px solid black;
+  background-color: transparent;
+}

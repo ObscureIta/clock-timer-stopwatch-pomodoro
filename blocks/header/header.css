@@ -1,0 +1,14 @@
+@import url(../header/__logo/header__logo.css);
+@import url(./__navigation-list/header__navigation-list.css);
+@import url(./__navigation-button/header__navigation-button.css);
+@import url(./__navigation-button/header__navigation-button-active.css);
+@import url(./__wrapper/header__wrapper.css);
+@import url(./__theme-toggle/header__theme-toggle.css);
+@import url(./__button-info/header__button-info.css);
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  padding: 20px 50px;
+}

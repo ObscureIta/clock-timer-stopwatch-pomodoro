@@ -1,1 +1,7 @@
-@import url(./__title/content__title.css);
+@import url(__title/content__title.css);
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
